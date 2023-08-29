@@ -112,14 +112,14 @@ Visit http://localhost:3000 (or the specified port) in your browser to see your 
 
 This is a basic overview of how to develop an app for booking appointments using the MERN stack. Remember to add validation, authentication, and other necessary features based on your specific requirements.
 
-these technologies create a full-stack solution for building web applications:
+These technologies create a full-stack solution for building web applications:
 
-Frontend (Client-side): React is used to build the user interface, manage state, and interact with the backend API.
+**Frontend (Client-side):** React is used to build the user interface, manage state, and interact with the backend API.
 
-Backend (Server-side): Node.js with Express.js handles API requests from the frontend, communicates with the MongoDB database, performs server-side logic, and returns data to the client.
+**Backend (Server-side)**: Node.js with Express.js handles API requests from the frontend, communicates with the MongoDB database, performs server-side logic, and returns data to the client.
 
-Database: MongoDB stores the application's data in a flexible, scalable manner, making it suitable for various types of applications.
+**Database:** MongoDB stores the application's data in a flexible, scalable manner, making it suitable for various types of applications.
 
-Communication: The frontend and backend communicate through HTTP requests and responses, allowing data to flow seamlessly between the two.
+**Communication:** The frontend and backend communicate through HTTP requests and responses, allowing data to flow seamlessly between the two.
 
 
